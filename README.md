@@ -1,6 +1,6 @@
 This is the submission for KoinX Frontend Intern Assignment.
 
-Here is the depoloyed link: https://knoix-app-final.vercel.app/bitcoin
+Here is the deployed link: https://knoix-app-final.vercel.app/bitcoin
 
 The project was built using NextJS and TS.
 
