@@ -5,8 +5,8 @@ Here is the deployed link: https://knoix-app-final.vercel.app/bitcoin
 The project was built using NextJS and TS.
 
 To run the project locally type these commands in the terminal:
-   npm i
-   npm run dev
+   - npm i
+   - npm run dev
 
 Here is an overview of the completed tasks:
 
