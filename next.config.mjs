@@ -3,8 +3,8 @@ const nextConfig = {
   reactStrictMode: true,
   transpilePackages: ["react-ts-tradingview-widgets"],
   images: {
-    domains: ["assets.coingecko.com"],
+    domains: ["assets.coingecko.com", "coin-images.coingecko.com"],
   },
 };
 
-export default nextConfig;
+export default nextConfig;

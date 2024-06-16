@@ -19,7 +19,8 @@ const YouMayLike = async () => {
   const trendingCoins = await data.json();
   let coins: ICoin[] = trendingCoins.coins;
   const filteredCoins = coins.filter((coin: ICoin) => {
-    const firstEightChar = coin.item.data.price.slice(0, 8);
+    // const firstEightChar = coin.item.data.price.slice(0, 8);
+    const firstEightChar = coin.item.data.price;
     return firstEightChar !== "$0.0<sub";
   });
 
